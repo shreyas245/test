@@ -1,0 +1,5 @@
+local
+	structure M = MyModule
+in 
+	open M
+end
